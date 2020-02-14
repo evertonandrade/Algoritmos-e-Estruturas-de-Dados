@@ -1,32 +1,36 @@
 {
   "format": 1,
   "restore": {
-    "/home/evertonfa7/Área de Trabalho/Estrutura_De_Dados/ListaEncadeada/ListaEncadeada.csproj": {}
+    "C:\\Users\\1182125287\\Desktop\\Algoritmos-e-Estruturas-de-Dados\\Estrutura_De_Dados_Classicas\\ListaEncadeada\\ListaEncadeada.csproj": {}
   },
   "projects": {
-    "/home/evertonfa7/Área de Trabalho/Estrutura_De_Dados/ListaEncadeada/ListaEncadeada.csproj": {
+    "C:\\Users\\1182125287\\Desktop\\Algoritmos-e-Estruturas-de-Dados\\Estrutura_De_Dados_Classicas\\ListaEncadeada\\ListaEncadeada.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/evertonfa7/Área de Trabalho/Estrutura_De_Dados/ListaEncadeada/ListaEncadeada.csproj",
+        "projectUniqueName": "C:\\Users\\1182125287\\Desktop\\Algoritmos-e-Estruturas-de-Dados\\Estrutura_De_Dados_Classicas\\ListaEncadeada\\ListaEncadeada.csproj",
         "projectName": "ListaEncadeada",
-        "projectPath": "/home/evertonfa7/Área de Trabalho/Estrutura_De_Dados/ListaEncadeada/ListaEncadeada.csproj",
-        "packagesPath": "/home/evertonfa7/.nuget/packages/",
-        "outputPath": "/home/evertonfa7/Área de Trabalho/Estrutura_De_Dados/ListaEncadeada/obj/",
+        "projectPath": "C:\\Users\\1182125287\\Desktop\\Algoritmos-e-Estruturas-de-Dados\\Estrutura_De_Dados_Classicas\\ListaEncadeada\\ListaEncadeada.csproj",
+        "packagesPath": "C:\\Users\\1182125287\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\1182125287\\Desktop\\Algoritmos-e-Estruturas-de-Dados\\Estrutura_De_Dados_Classicas\\ListaEncadeada\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/home/evertonfa7/.config/NuGet/NuGet.Config"
+          "C:\\Users\\1182125287\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp2.2"
+          "netcoreapp2.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp2.2": {
+          "netcoreapp2.1": {
             "projectReferences": {}
           }
         },
@@ -37,12 +41,11 @@
         }
       },
       "frameworks": {
-        "netcoreapp2.2": {
+        "netcoreapp2.1": {
           "dependencies": {
             "Microsoft.NETCore.App": {
-              "suppressParent": "All",
               "target": "Package",
-              "version": "[2.2.0, )",
+              "version": "[2.1.0, )",
               "autoReferenced": true
             }
           },
