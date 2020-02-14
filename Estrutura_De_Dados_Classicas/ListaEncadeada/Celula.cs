@@ -2,13 +2,13 @@ using System;
 
 namespace ListaEncadeada
 {
-    class Celula
+    class Celula<T>
     {
-        public Celula Proxima { get; set; }
+        public Celula<T> Proxima { get; set; }
         public object Elemento { get; private set; }
         
 
-        public Celula(Celula proxima, object elemento)
+        public Celula(Celula<T> proxima, object elemento)
         {
             Proxima = proxima;
             Elemento = elemento;

@@ -6,7 +6,7 @@ namespace ListaEncadeada
     {
         static void Main(string[] args)
         {
-            ListaLigada lista = new ListaLigada();
+            ListaLigada<int> lista = new ListaLigada<int>();
             lista.Adicionar(0);
             lista.Adicionar(1);
             lista.Adicionar(2);
@@ -21,6 +21,8 @@ namespace ListaEncadeada
             System.Console.WriteLine(lista);
             var a = lista.Pegar(1);
             System.Console.WriteLine(a);
+            lista.Limpar();
+            System.Console.WriteLine(lista);
         }
     }
 }

@@ -3,10 +3,10 @@ using System.Text;
 
 namespace ListaEncadeada
 {
-    class ListaLigada
+    class ListaLigada<T>
     {
-        private Celula Primeira;
-        private Celula Ultima;
+        private Celula<T> Primeira;
+        private Celula<T> Ultima;
         public int TotalDeElementos { get; private set; }
 
         public ListaLigada()
@@ -23,7 +23,7 @@ namespace ListaEncadeada
             }
             else
             {
-                Celula nova = new Celula(elemento);
+                Celula<T> nova = new Celula<T>(elemento);
                 Ultima.Proxima = nova;
                 Ultima = nova;
                 TotalDeElementos++;
@@ -32,7 +32,7 @@ namespace ListaEncadeada
 
         public void AdicionarNoComeco(object elemento)
         {
-            Celula nova = new Celula(Primeira, elemento);
+            Celula<T> nova = new Celula<T>(Primeira, elemento);
             Primeira = nova;
 
             if (TotalDeElementos == 0)
@@ -59,21 +59,21 @@ namespace ListaEncadeada
             }
             else
             {
-                Celula anterior = this.PegarCelula(posicao - 1);
-                Celula nova = new Celula(anterior.Proxima, elemento);
+                Celula<T> anterior = this.PegarCelula(posicao - 1);
+                Celula<T> nova = new Celula<T>(anterior.Proxima, elemento);
                 anterior.Proxima = nova;
                 TotalDeElementos++;
             }
         }
 
-        private Celula PegarCelula(int posicao)
+        private Celula<T> PegarCelula(int posicao)
         {
             if (!PosicaoOcupada(posicao))
             {
                 throw new ArgumentException("Posição não existe");
             }
 
-            Celula atual = Primeira;
+            Celula<T> atual = Primeira;
             for (int i = 0; i < posicao; i++)
             {
                 atual = atual.Proxima;
@@ -91,6 +91,11 @@ namespace ListaEncadeada
             return posicao >= 0 && posicao < this.TotalDeElementos;
         }
 
+
+        public bool ExisteDado(T elemento)
+        {
+           return false;
+        }
 
         public void RemoverDoComeco() 
         {
@@ -120,7 +125,7 @@ namespace ListaEncadeada
                RemoverDoComeco();
            }
            
-            Celula penultima = PegarCelula(TotalDeElementos - 2);
+            Celula<T> penultima = PegarCelula(TotalDeElementos - 2);
             penultima.Proxima = null;
             Ultima = penultima;
             TotalDeElementos--;
@@ -143,9 +148,9 @@ namespace ListaEncadeada
            }
            else 
            {
-               Celula anterior = PegarCelula(posicao - 1);
-               Celula atual = anterior.Proxima;
-               Celula proxima = atual.Proxima;
+               Celula<T> anterior = PegarCelula(posicao - 1);
+               Celula<T> atual = anterior.Proxima;
+               Celula<T> proxima = atual.Proxima;
 
                anterior.Proxima = proxima;
                TotalDeElementos--;
@@ -159,7 +164,7 @@ namespace ListaEncadeada
 
         public bool Contem(object elemento)
         {
-            Celula atual = Primeira;
+            Celula<T> atual = Primeira;
 
             while (atual != null)
             {
@@ -171,6 +176,13 @@ namespace ListaEncadeada
             return false;
         }
 
+        public void Limpar()
+        {
+            Primeira = null;
+            Ultima = null;
+            TotalDeElementos = 0;
+        }
+
         public override string ToString()
         {
             // Verificando se a Lista esta vazia
@@ -180,7 +192,7 @@ namespace ListaEncadeada
             }
             StringBuilder builder = new StringBuilder("[");
 
-            Celula atual = Primeira;
+            Celula<T> atual = Primeira;
             // Percorrendo ate o penultimo elemento.
             for (int i = 0; i < TotalDeElementos - 1; i++)
             {
