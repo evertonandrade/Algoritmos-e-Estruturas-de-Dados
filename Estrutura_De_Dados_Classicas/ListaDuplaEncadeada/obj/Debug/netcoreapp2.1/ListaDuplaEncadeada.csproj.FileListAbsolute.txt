@@ -1,0 +1,11 @@
+C:\Users\1182125287\Desktop\Algoritmos-e-Estruturas-de-Dados\Estrutura_De_Dados_Classicas\ListaDuplaEncadeada\bin\Debug\netcoreapp2.1\ListaDuplaEncadeada.deps.json
+C:\Users\1182125287\Desktop\Algoritmos-e-Estruturas-de-Dados\Estrutura_De_Dados_Classicas\ListaDuplaEncadeada\bin\Debug\netcoreapp2.1\ListaDuplaEncadeada.runtimeconfig.json
+C:\Users\1182125287\Desktop\Algoritmos-e-Estruturas-de-Dados\Estrutura_De_Dados_Classicas\ListaDuplaEncadeada\bin\Debug\netcoreapp2.1\ListaDuplaEncadeada.runtimeconfig.dev.json
+C:\Users\1182125287\Desktop\Algoritmos-e-Estruturas-de-Dados\Estrutura_De_Dados_Classicas\ListaDuplaEncadeada\bin\Debug\netcoreapp2.1\ListaDuplaEncadeada.dll
+C:\Users\1182125287\Desktop\Algoritmos-e-Estruturas-de-Dados\Estrutura_De_Dados_Classicas\ListaDuplaEncadeada\bin\Debug\netcoreapp2.1\ListaDuplaEncadeada.pdb
+C:\Users\1182125287\Desktop\Algoritmos-e-Estruturas-de-Dados\Estrutura_De_Dados_Classicas\ListaDuplaEncadeada\obj\Debug\netcoreapp2.1\ListaDuplaEncadeada.csprojAssemblyReference.cache
+C:\Users\1182125287\Desktop\Algoritmos-e-Estruturas-de-Dados\Estrutura_De_Dados_Classicas\ListaDuplaEncadeada\obj\Debug\netcoreapp2.1\ListaDuplaEncadeada.csproj.CoreCompileInputs.cache
+C:\Users\1182125287\Desktop\Algoritmos-e-Estruturas-de-Dados\Estrutura_De_Dados_Classicas\ListaDuplaEncadeada\obj\Debug\netcoreapp2.1\ListaDuplaEncadeada.AssemblyInfoInputs.cache
+C:\Users\1182125287\Desktop\Algoritmos-e-Estruturas-de-Dados\Estrutura_De_Dados_Classicas\ListaDuplaEncadeada\obj\Debug\netcoreapp2.1\ListaDuplaEncadeada.AssemblyInfo.cs
+C:\Users\1182125287\Desktop\Algoritmos-e-Estruturas-de-Dados\Estrutura_De_Dados_Classicas\ListaDuplaEncadeada\obj\Debug\netcoreapp2.1\ListaDuplaEncadeada.dll
+C:\Users\1182125287\Desktop\Algoritmos-e-Estruturas-de-Dados\Estrutura_De_Dados_Classicas\ListaDuplaEncadeada\obj\Debug\netcoreapp2.1\ListaDuplaEncadeada.pdb
