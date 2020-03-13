@@ -1,0 +1,11 @@
+C:\Users\1182125287\Desktop\Algoritmos-e-Estruturas-de-Dados\Estrutura_De_Dados_Classicas\Recursividade\bin\Debug\netcoreapp2.1\Recursividade.deps.json
+C:\Users\1182125287\Desktop\Algoritmos-e-Estruturas-de-Dados\Estrutura_De_Dados_Classicas\Recursividade\bin\Debug\netcoreapp2.1\Recursividade.runtimeconfig.json
+C:\Users\1182125287\Desktop\Algoritmos-e-Estruturas-de-Dados\Estrutura_De_Dados_Classicas\Recursividade\bin\Debug\netcoreapp2.1\Recursividade.runtimeconfig.dev.json
+C:\Users\1182125287\Desktop\Algoritmos-e-Estruturas-de-Dados\Estrutura_De_Dados_Classicas\Recursividade\bin\Debug\netcoreapp2.1\Recursividade.dll
+C:\Users\1182125287\Desktop\Algoritmos-e-Estruturas-de-Dados\Estrutura_De_Dados_Classicas\Recursividade\bin\Debug\netcoreapp2.1\Recursividade.pdb
+C:\Users\1182125287\Desktop\Algoritmos-e-Estruturas-de-Dados\Estrutura_De_Dados_Classicas\Recursividade\obj\Debug\netcoreapp2.1\Recursividade.csprojAssemblyReference.cache
+C:\Users\1182125287\Desktop\Algoritmos-e-Estruturas-de-Dados\Estrutura_De_Dados_Classicas\Recursividade\obj\Debug\netcoreapp2.1\Recursividade.csproj.CoreCompileInputs.cache
+C:\Users\1182125287\Desktop\Algoritmos-e-Estruturas-de-Dados\Estrutura_De_Dados_Classicas\Recursividade\obj\Debug\netcoreapp2.1\Recursividade.AssemblyInfoInputs.cache
+C:\Users\1182125287\Desktop\Algoritmos-e-Estruturas-de-Dados\Estrutura_De_Dados_Classicas\Recursividade\obj\Debug\netcoreapp2.1\Recursividade.AssemblyInfo.cs
+C:\Users\1182125287\Desktop\Algoritmos-e-Estruturas-de-Dados\Estrutura_De_Dados_Classicas\Recursividade\obj\Debug\netcoreapp2.1\Recursividade.dll
+C:\Users\1182125287\Desktop\Algoritmos-e-Estruturas-de-Dados\Estrutura_De_Dados_Classicas\Recursividade\obj\Debug\netcoreapp2.1\Recursividade.pdb
