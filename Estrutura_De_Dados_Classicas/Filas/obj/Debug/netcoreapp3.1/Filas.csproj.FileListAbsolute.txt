@@ -1,0 +1,11 @@
+/home/evertonfa7/Desktop/Algoritmos-e-Estruturas-de-Dados/Estrutura_De_Dados_Classicas/Filas/bin/Debug/netcoreapp3.1/Filas
+/home/evertonfa7/Desktop/Algoritmos-e-Estruturas-de-Dados/Estrutura_De_Dados_Classicas/Filas/bin/Debug/netcoreapp3.1/Filas.deps.json
+/home/evertonfa7/Desktop/Algoritmos-e-Estruturas-de-Dados/Estrutura_De_Dados_Classicas/Filas/bin/Debug/netcoreapp3.1/Filas.runtimeconfig.json
+/home/evertonfa7/Desktop/Algoritmos-e-Estruturas-de-Dados/Estrutura_De_Dados_Classicas/Filas/bin/Debug/netcoreapp3.1/Filas.runtimeconfig.dev.json
+/home/evertonfa7/Desktop/Algoritmos-e-Estruturas-de-Dados/Estrutura_De_Dados_Classicas/Filas/bin/Debug/netcoreapp3.1/Filas.dll
+/home/evertonfa7/Desktop/Algoritmos-e-Estruturas-de-Dados/Estrutura_De_Dados_Classicas/Filas/bin/Debug/netcoreapp3.1/Filas.pdb
+/home/evertonfa7/Desktop/Algoritmos-e-Estruturas-de-Dados/Estrutura_De_Dados_Classicas/Filas/obj/Debug/netcoreapp3.1/Filas.csprojAssemblyReference.cache
+/home/evertonfa7/Desktop/Algoritmos-e-Estruturas-de-Dados/Estrutura_De_Dados_Classicas/Filas/obj/Debug/netcoreapp3.1/Filas.AssemblyInfoInputs.cache
+/home/evertonfa7/Desktop/Algoritmos-e-Estruturas-de-Dados/Estrutura_De_Dados_Classicas/Filas/obj/Debug/netcoreapp3.1/Filas.AssemblyInfo.cs
+/home/evertonfa7/Desktop/Algoritmos-e-Estruturas-de-Dados/Estrutura_De_Dados_Classicas/Filas/obj/Debug/netcoreapp3.1/Filas.dll
+/home/evertonfa7/Desktop/Algoritmos-e-Estruturas-de-Dados/Estrutura_De_Dados_Classicas/Filas/obj/Debug/netcoreapp3.1/Filas.pdb

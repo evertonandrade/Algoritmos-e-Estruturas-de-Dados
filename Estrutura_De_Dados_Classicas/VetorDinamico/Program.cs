@@ -10,7 +10,7 @@ namespace VetorDinamico
             Lista<int> lista = new Lista<int>(5);
             try
             {
-                lista.Adicionar()
+                lista.Adicionar(2);
                 Console.WriteLine(lista);
 
             }
