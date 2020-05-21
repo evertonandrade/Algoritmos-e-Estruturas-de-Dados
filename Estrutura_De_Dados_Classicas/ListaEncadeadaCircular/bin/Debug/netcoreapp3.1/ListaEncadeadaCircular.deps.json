@@ -1,20 +1,20 @@
 {
   "runtimeTarget": {
-    "name": ".NETCoreApp,Version=v2.1",
+    "name": ".NETCoreApp,Version=v3.1",
     "signature": ""
   },
   "compilationOptions": {},
   "targets": {
-    ".NETCoreApp,Version=v2.1": {
-      "ListaDuplaEncadeada/1.0.0": {
+    ".NETCoreApp,Version=v3.1": {
+      "ListaEncadeadaCircular/1.0.0": {
         "runtime": {
-          "ListaDuplaEncadeada.dll": {}
+          "ListaEncadeadaCircular.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "ListaDuplaEncadeada/1.0.0": {
+    "ListaEncadeadaCircular/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

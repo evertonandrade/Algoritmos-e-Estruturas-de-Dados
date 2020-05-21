@@ -1,0 +1,11 @@
+/home/evertonfa7/Desktop/Algoritmos-e-Estruturas-de-Dados/Estrutura_De_Dados_Classicas/ListaEncadeadaCircular/bin/Debug/netcoreapp3.1/ListaEncadeadaCircular
+/home/evertonfa7/Desktop/Algoritmos-e-Estruturas-de-Dados/Estrutura_De_Dados_Classicas/ListaEncadeadaCircular/bin/Debug/netcoreapp3.1/ListaEncadeadaCircular.deps.json
+/home/evertonfa7/Desktop/Algoritmos-e-Estruturas-de-Dados/Estrutura_De_Dados_Classicas/ListaEncadeadaCircular/bin/Debug/netcoreapp3.1/ListaEncadeadaCircular.runtimeconfig.json
+/home/evertonfa7/Desktop/Algoritmos-e-Estruturas-de-Dados/Estrutura_De_Dados_Classicas/ListaEncadeadaCircular/bin/Debug/netcoreapp3.1/ListaEncadeadaCircular.runtimeconfig.dev.json
+/home/evertonfa7/Desktop/Algoritmos-e-Estruturas-de-Dados/Estrutura_De_Dados_Classicas/ListaEncadeadaCircular/bin/Debug/netcoreapp3.1/ListaEncadeadaCircular.dll
+/home/evertonfa7/Desktop/Algoritmos-e-Estruturas-de-Dados/Estrutura_De_Dados_Classicas/ListaEncadeadaCircular/bin/Debug/netcoreapp3.1/ListaEncadeadaCircular.pdb
+/home/evertonfa7/Desktop/Algoritmos-e-Estruturas-de-Dados/Estrutura_De_Dados_Classicas/ListaEncadeadaCircular/obj/Debug/netcoreapp3.1/ListaEncadeadaCircular.csprojAssemblyReference.cache
+/home/evertonfa7/Desktop/Algoritmos-e-Estruturas-de-Dados/Estrutura_De_Dados_Classicas/ListaEncadeadaCircular/obj/Debug/netcoreapp3.1/ListaEncadeadaCircular.AssemblyInfoInputs.cache
+/home/evertonfa7/Desktop/Algoritmos-e-Estruturas-de-Dados/Estrutura_De_Dados_Classicas/ListaEncadeadaCircular/obj/Debug/netcoreapp3.1/ListaEncadeadaCircular.AssemblyInfo.cs
+/home/evertonfa7/Desktop/Algoritmos-e-Estruturas-de-Dados/Estrutura_De_Dados_Classicas/ListaEncadeadaCircular/obj/Debug/netcoreapp3.1/ListaEncadeadaCircular.dll
+/home/evertonfa7/Desktop/Algoritmos-e-Estruturas-de-Dados/Estrutura_De_Dados_Classicas/ListaEncadeadaCircular/obj/Debug/netcoreapp3.1/ListaEncadeadaCircular.pdb
