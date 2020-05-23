@@ -1,0 +1,11 @@
+/home/evertonfa7/Desktop/Algoritmos-e-Estruturas-de-Dados/Estrutura_De_Dados_Classicas/ListaEncadedaComNoCabeca/bin/Debug/netcoreapp3.1/ListaEncadedaComNoCabeca
+/home/evertonfa7/Desktop/Algoritmos-e-Estruturas-de-Dados/Estrutura_De_Dados_Classicas/ListaEncadedaComNoCabeca/bin/Debug/netcoreapp3.1/ListaEncadedaComNoCabeca.deps.json
+/home/evertonfa7/Desktop/Algoritmos-e-Estruturas-de-Dados/Estrutura_De_Dados_Classicas/ListaEncadedaComNoCabeca/bin/Debug/netcoreapp3.1/ListaEncadedaComNoCabeca.runtimeconfig.json
+/home/evertonfa7/Desktop/Algoritmos-e-Estruturas-de-Dados/Estrutura_De_Dados_Classicas/ListaEncadedaComNoCabeca/bin/Debug/netcoreapp3.1/ListaEncadedaComNoCabeca.runtimeconfig.dev.json
+/home/evertonfa7/Desktop/Algoritmos-e-Estruturas-de-Dados/Estrutura_De_Dados_Classicas/ListaEncadedaComNoCabeca/bin/Debug/netcoreapp3.1/ListaEncadedaComNoCabeca.dll
+/home/evertonfa7/Desktop/Algoritmos-e-Estruturas-de-Dados/Estrutura_De_Dados_Classicas/ListaEncadedaComNoCabeca/bin/Debug/netcoreapp3.1/ListaEncadedaComNoCabeca.pdb
+/home/evertonfa7/Desktop/Algoritmos-e-Estruturas-de-Dados/Estrutura_De_Dados_Classicas/ListaEncadedaComNoCabeca/obj/Debug/netcoreapp3.1/ListaEncadedaComNoCabeca.csprojAssemblyReference.cache
+/home/evertonfa7/Desktop/Algoritmos-e-Estruturas-de-Dados/Estrutura_De_Dados_Classicas/ListaEncadedaComNoCabeca/obj/Debug/netcoreapp3.1/ListaEncadedaComNoCabeca.AssemblyInfoInputs.cache
+/home/evertonfa7/Desktop/Algoritmos-e-Estruturas-de-Dados/Estrutura_De_Dados_Classicas/ListaEncadedaComNoCabeca/obj/Debug/netcoreapp3.1/ListaEncadedaComNoCabeca.AssemblyInfo.cs
+/home/evertonfa7/Desktop/Algoritmos-e-Estruturas-de-Dados/Estrutura_De_Dados_Classicas/ListaEncadedaComNoCabeca/obj/Debug/netcoreapp3.1/ListaEncadedaComNoCabeca.dll
+/home/evertonfa7/Desktop/Algoritmos-e-Estruturas-de-Dados/Estrutura_De_Dados_Classicas/ListaEncadedaComNoCabeca/obj/Debug/netcoreapp3.1/ListaEncadedaComNoCabeca.pdb
