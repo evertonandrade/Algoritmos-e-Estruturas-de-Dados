@@ -1,0 +1,11 @@
+/home/evertonfa7/Desktop/Algoritmos-e-Estruturas-de-Dados/Estrutura_De_Dados_Classicas/Pilhas/bin/Debug/netcoreapp3.1/Pilhas
+/home/evertonfa7/Desktop/Algoritmos-e-Estruturas-de-Dados/Estrutura_De_Dados_Classicas/Pilhas/bin/Debug/netcoreapp3.1/Pilhas.deps.json
+/home/evertonfa7/Desktop/Algoritmos-e-Estruturas-de-Dados/Estrutura_De_Dados_Classicas/Pilhas/bin/Debug/netcoreapp3.1/Pilhas.runtimeconfig.json
+/home/evertonfa7/Desktop/Algoritmos-e-Estruturas-de-Dados/Estrutura_De_Dados_Classicas/Pilhas/bin/Debug/netcoreapp3.1/Pilhas.runtimeconfig.dev.json
+/home/evertonfa7/Desktop/Algoritmos-e-Estruturas-de-Dados/Estrutura_De_Dados_Classicas/Pilhas/bin/Debug/netcoreapp3.1/Pilhas.dll
+/home/evertonfa7/Desktop/Algoritmos-e-Estruturas-de-Dados/Estrutura_De_Dados_Classicas/Pilhas/bin/Debug/netcoreapp3.1/Pilhas.pdb
+/home/evertonfa7/Desktop/Algoritmos-e-Estruturas-de-Dados/Estrutura_De_Dados_Classicas/Pilhas/obj/Debug/netcoreapp3.1/Pilhas.csprojAssemblyReference.cache
+/home/evertonfa7/Desktop/Algoritmos-e-Estruturas-de-Dados/Estrutura_De_Dados_Classicas/Pilhas/obj/Debug/netcoreapp3.1/Pilhas.AssemblyInfoInputs.cache
+/home/evertonfa7/Desktop/Algoritmos-e-Estruturas-de-Dados/Estrutura_De_Dados_Classicas/Pilhas/obj/Debug/netcoreapp3.1/Pilhas.AssemblyInfo.cs
+/home/evertonfa7/Desktop/Algoritmos-e-Estruturas-de-Dados/Estrutura_De_Dados_Classicas/Pilhas/obj/Debug/netcoreapp3.1/Pilhas.dll
+/home/evertonfa7/Desktop/Algoritmos-e-Estruturas-de-Dados/Estrutura_De_Dados_Classicas/Pilhas/obj/Debug/netcoreapp3.1/Pilhas.pdb
